@@ -13,6 +13,8 @@ I hosted the website on heroku rather than glitch. What I like about heroku is t
 
 Technical 3:
 I also scored a 100% on the light house tests. Attach image to repository
+![Screenshot 2024-09-17 002440](https://github.com/user-attachments/assets/0b428810-0f2e-4186-a065-67172ae0eb8c)
+
 
 Technical 4:
 The 5 middleware packages: 
